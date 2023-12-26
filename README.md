@@ -79,7 +79,7 @@ Rekomendasi:
 6. Terus pantau dan analisis tren penjualan tahunan untuk memahami perubahan perilaku pelanggan.
 
 
-* **Perkasa Muhammad** - *Initial work* - [PurpleBooth](https://github.com/kevinjuwantoro/AWS-SaaS-Sales-Data-Analysis/blob/main/AWS%20SaaS%20Sales%20Capstone%202_Hieremias%20Kevin%20Juwantoro.IPYNB)
+* **Perkasa Muhammad** - *Initial work* - [PurpleBooth](https://github.com/PerkasaM/AWS-SaaS-Sales-performance/blob/main/AWS%20Saas%20Perkasa%20Muhammad..ipynb)
 
 
 
